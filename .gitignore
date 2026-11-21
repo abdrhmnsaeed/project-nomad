@@ -40,4 +40,8 @@ admin/public/assets
 
 # Admin specific development files
 admin/storage
-config.bat
+
+# Local environment files
+.env
+.env.*
+!.env.example
